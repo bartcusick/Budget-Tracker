@@ -17,7 +17,7 @@ Budget App that keeps saved data in the apps Database without an internet connec
 ## Installation
         Runs in Web Browser
 ## Usage
-- [Budget-Tracker](https://bartcusick.github.io/Weather-Dashboard/)
+- [Budget-Tracker](https://nameless-refuge-84501.herokuapp.com/)
 ## Repository
 - [Budget-Tracker Repo](https://github.com/bartcusick/Budget-Tracker)
 ## GitHub
